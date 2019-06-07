@@ -1,4 +1,4 @@
-# ExerciceGit1
+# Exercice Git #1
 ## Clone, Branch, Remote, Add, Commit, Push
 
 Pour cet exercice vous devez modifier le fichier helloworld.txt pour y ajouter votre propre Hello World avec vos initiales.
