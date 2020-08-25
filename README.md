@@ -12,3 +12,17 @@ Il faudra ensuite retourner le fichier modifié sur votre propre branche, toujou
 ### Ne pas faire de push sur le master!
 ### Le tout doit être fait en utilisant seulement votre CLI, donc sans l'application GitHub, sans l'option download zip, etc.
 
+---------------------------------------------------------------------------------------------------------------------------------
+# Git Exercice #1
+## Clone, Branch, Add, Commit, Push
+
+For this exercise you must modify the helloworld.txt file to add your own Hello World and your initials.
+
+The txt file should be edited **only using the CLI of your choice** and not in an editor.
+Below your HelloWorld, mention which tool you used to make it happen.
+
+You will then have to return the modified file to your own branch, still on my repository. Simply write to me in PV with your GitHub Username so that I can add you as a collaborator. You will then receive an email invitation to become a collaborator, which once accepted will allow you to do a push.
+
+
+### Don't make any push on the master branch!
+### All of this needs to be done using only you CLI, so no Github application, no Download Zip, etc.
