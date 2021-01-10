@@ -1,3 +1,10 @@
-Hello World --MH
+Hello World --RP
+Fait dans le terminal Hyper sous Ubuntu 20.04.1 LTS. 
+D'abord en créant un Fork du répertoire d'origine pour le transporter dans mon compte GitHub.
+Ensuite en clonant le répertoire de mon compte GitHub vers mon ordinateur en copiant l'url puis en
+tappant la commande $ git clone url dans mon terminal.
+Le fichier y a été directement édité en l'ouvrant avec $ nano helloworld.txt.
+Après un commit local puis un push vers mon répertoire GitHub, un pull request doit l'avoir rendu 
+visible dans le répertoire d'origine.
 
 
