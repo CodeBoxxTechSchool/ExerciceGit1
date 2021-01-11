@@ -1,1 +1,7 @@
-Hello World --MH
+Hello World --WJ
+
+used git bash as my editor
+cloned the repo, made a branch using git bash
+
+to edit the text file, i used 'nano helloworld.txt' which opened an editor in the terminal
+
