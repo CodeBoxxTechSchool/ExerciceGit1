@@ -1,1 +1,3 @@
-Hello World --MH
+Hello World --SM
+
+J'ai utilisé l'outil Git bash puis la commande nano pour modifier le fichier texte.
