@@ -1,1 +1,4 @@
 Hello World --MH
+Hello World --JG
+
+This text has been edited using Git Bash Vim.
