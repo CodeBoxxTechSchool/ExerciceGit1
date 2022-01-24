@@ -1,1 +1,15 @@
-Hello World --MH
+Hello World --M
+
+-------------------
+This file has been modified by Eileen:
+Steps taken: 
+1. git clone <repo_name>
+2. vi <textfile.txt>
+3. i #to insert
+4. esc #to exit
+5. :w #to save
+6. :q #to close
+7. git branch <eileen_branch>
+8. git checkout -b your-new-branch
+git add <files>
+git commit -m <message>
