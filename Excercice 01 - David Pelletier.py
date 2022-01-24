@@ -1,5 +1,2 @@
-from cgi import test
-
-
-test
-test2
+with open("helloworld.txt", "w") as upload:
+    upload.write('Hello World // DP - Visual Basic')
