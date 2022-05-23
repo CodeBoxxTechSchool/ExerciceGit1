@@ -1,1 +1,5 @@
 Hello World --MH
+Hello WORLD --SR
+
+CLI: Mac Terminal
+Text Editor: Vim
