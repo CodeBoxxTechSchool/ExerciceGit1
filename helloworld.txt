@@ -1,1 +1,3 @@
-Hello World --MH
+Hello World --SM
+
+Cloned from GitHub using HTTPS method and edited in MacOs Terminal
