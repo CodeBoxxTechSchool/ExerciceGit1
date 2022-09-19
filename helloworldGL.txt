@@ -1,0 +1,3 @@
+Hello World --MH
+Hello World --GL
+I cloned the exercice files into my computer and I accessed it with Terminal to edit the content of HelloWorld.txt
