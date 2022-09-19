@@ -3,4 +3,5 @@ Hello World -- kerry
 #git Clone dans invite de commande
 #cd emplacement fichier 
 #git init djjd
- #git d<statuts  
+ #git d<statuts   
+ dgdggd
