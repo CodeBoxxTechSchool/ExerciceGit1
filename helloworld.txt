@@ -1,1 +1,4 @@
-Hello World --MH
+Hello World --SV
+
+-To clone the repository, I used the Git bash that I downloaded on my PC
+-To modify the file "helloworld.txt", I used VIM in the bash
