@@ -1,1 +1,6 @@
 Hello World -- kerry
+ #download git CLI
+#git Clone dans invite de commande
+#cd emplacement fichier 
+#git init djjd
+ #git d<statuts  
