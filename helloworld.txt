@@ -1,7 +1,13 @@
 Hello World -- kerry
  #download git CLI
-#git Clone dans invite de commande
-#cd emplacement fichier 
-#git init djjd
- #git d<statuts   
- dgdggd
+ #git Clone dans invite de commande
+ #cd emplacement fichier 
+ #git init 
+ #git statuts   
+ # git add file
+ #git commit -m ""
+ #git branch name 
+ #git merge master
+ #git statuts
+ #git commit -m ""
+ #git push origin master
