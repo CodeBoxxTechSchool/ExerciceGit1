@@ -1,1 +1,8 @@
-Hello World --MH
+Hello World --HGR
+//J'ai changé la configuration global par mon user et email
+$ git config --global user.name "gabrielleravelo"
+$ git config --global user.email "gabriravelo@gmail.com"
+//J'ai cloné le fichier dans github vers le dossier local
+$ git clone https://github.com/CodeBoxxTechSchool/ExerciceGit1.git
+$ git add.
+$ git commit
