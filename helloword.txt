@@ -1,0 +1,3 @@
+hello word--PT
+
+erciceGit1 - cd ExerciceGit1 - notepad helloword.txt - ecrire dans le notepad hello word--PT
